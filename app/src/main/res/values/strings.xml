@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBeworbenApp</string>
+    <string name="tab_titel">Bewerben</string>
+    <string name="tab_sub_titel">Übersicht</string>
+    <string name="tab_sub_titel_add_item">Item Hinzufügen</string>
+    <string name="tab_sub_titel_details">Details</string>
+
+</resources>
